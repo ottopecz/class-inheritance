@@ -25,10 +25,5 @@ var SubClass = function () {
 }.inheritsFrom(SuperClass);
 
 SubClass.prototype.subTwo = function () {
-    debugger;
     return this.subOne;
 };
-
-var subObj = new SubClass();
-
-debugger;
