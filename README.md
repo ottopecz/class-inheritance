@@ -1,4 +1,4 @@
-class-inheritance
-=================
+Class/Constructor/Type inheritance
+==================================
 
-example for simple class inheritance
+An example for simple class/constructor/type inheritance.
